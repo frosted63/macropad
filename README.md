@@ -1,0 +1,2 @@
+# macropad
+Adafruit Macropad configuration
